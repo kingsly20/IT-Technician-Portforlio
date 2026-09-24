@@ -1,0 +1,5 @@
+Username	FullName	GroupName	FolderPath	Permission
+jsmith	Jane Smith	Sales	C:\Shares\Sales	Modify
+mchan	Michael Chan	Sales	C:\Shares\Sales	Modify
+akone	Amara Kone	Finance	C:\Shares\Finance	Read
+dwoods	David Woods	Finance	C:\Shares\Finance	FullControl
